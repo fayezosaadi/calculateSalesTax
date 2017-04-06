@@ -45,6 +45,8 @@ function sum(listOfSales) {
 
 
 
+
+
 function calculateSalesTax(salesData, taxRates) {
   var results = {};
   console.log(taxRates)
